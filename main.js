@@ -13,5 +13,5 @@ btnClose.addEventListener('click', toggleMenu);
 // 	menu.classList.toggle('active');
 // }
 
-// btnHamburger.addEventListener('click', toggleMenu(menu));
-// btnClose.addEventListener('click', toggleMenu(menu));
+// btnHamburger.addEventListener('click', toggleMenu(hamburgerMenu));
+// btnClose.addEventListener('click', toggleMenu(hamburgerMenu));
