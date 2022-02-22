@@ -12,3 +12,6 @@ btnClose.addEventListener('click', toggleMenu);
 // function toggleMenu(menu) {
 // 	menu.classList.toggle('active');
 // }
+
+// btnHamburger.addEventListener('click', toggleMenu(menu));
+// btnClose.addEventListener('click', toggleMenu(menu));
