@@ -1,5 +1,5 @@
 const btnHamburger = document.querySelector('.header-right>a');
-const btnClose = document.querySelector('.hamburger-menu>a');
+const btnClose = document.querySelector('.hamburger-menu .close');
 const hamburgerMenu = document.querySelector('.hamburger-menu');
 
 // function toggleMenu() {
